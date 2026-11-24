@@ -10,6 +10,7 @@ I'm a Computer Science graduate from the University of Messina and an MSc studen
 | Project | Technical focus |
 | --- | --- |
 | [Constraint-Based Dynamic Shared-Ride Taxi Allocation](https://github.com/GhazalAmiri2003/Constraint-Based-Dynamic-Shared-Ride-Taxi-Allocation-System) | Python, Django, PostgreSQL, graph routing, constraint-based route selection, transactional booking and automated tests |
+| [Football Match Outcome Prediction](https://github.com/GhazalAmiri2003/football_predictor) | Python, scikit-learn, feature engineering, chronological ML evaluation (revised notebook pending execution) |
 | [Java Swing Car Racing Simulator](https://github.com/GhazalAmiri2003/car_race_2) | Java, OOP, simulation, Swing GUI and modular rendering |
 
 ## Commercial experience
