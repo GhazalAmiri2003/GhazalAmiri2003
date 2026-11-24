@@ -1,70 +1,42 @@
-# Hi, I'm Ghazal Amiri 👋
+# Hi, I'm Ghazal Amiri
 
-### Software Developer | Computer Engineering MSc Student
+**Software Developer · MSc Computer Engineering (Automation)**  
+Turin, Italy
 
-Based in Turin, Italy.
+I'm a Computer Science graduate from the University of Messina and an MSc student at Politecnico di Torino. My experience combines paid, team-based software development for clients with computer vision research and numerical simulation.
 
-I'm currently pursuing an MSc in Computer Engineering, specializing in Automation, at Politecnico di Torino.
+## Public portfolio
 
-I hold a Bachelor's degree in Computer Science (Data Analysis) from the University of Messina, with practical experience in commercial software development and computer vision research.
+| Project | Technical focus |
+| --- | --- |
+| [Constraint-Based Dynamic Shared-Ride Taxi Allocation](https://github.com/GhazalAmiri2003/Constraint-Based-Dynamic-Shared-Ride-Taxi-Allocation-System) | Python, Django, PostgreSQL, graph routing, constraint-based route selection, transactional booking and automated tests |
+| [Java Swing Car Racing Simulator](https://github.com/GhazalAmiri2003/car_race_2) | Java, OOP, simulation, Swing GUI and modular rendering |
 
-## About Me
+## Commercial experience
 
-- Freelance software development experience
-- Former Computer Vision Research Intern at FCRLAB
-- Interested in software engineering, AI, automation and robotics
-- Open to junior positions and internships
+Co-developed client software in a small development team. Client source code is private.
 
-## Technical Skills
+- **Boat Service Booking & Management System** — Next.js, Supabase, PostgreSQL; booking, scheduling, access control and payment workflows.
+- **BoatManager** — C#, .NET, WPF, EF Core and SQLite; pricing logic, payment management and document generation.
+- **Digital Restaurant Menu** — Next.js, React, TypeScript and Supabase; responsive, database-driven menu.
+
+## Research
+
+Former Computer Vision Research Intern at FCRLAB, University of Messina.
+
+**Bachelor's thesis:** Vision-informed dynamic simulation of a personalized variable-impedance canine hind-limb prosthesis. Numerical optimization reduced the simulated weighted objective by 54.4% for walking and 52.3% for trotting versus a common fixed-device baseline.
+
+## Technical skills
 
 | Area | Technologies |
-|---|---|
+| --- | --- |
 | Programming | Python, C#, Java, JavaScript, TypeScript, SQL |
-| Web Development | Next.js, React, Django, Tailwind CSS |
-| Desktop Development | .NET, WPF, Entity Framework Core |
-| Databases | PostgreSQL, Supabase, SQLite, MongoDB, Neo4j |
-| AI & Computer Vision | OpenCV, NumPy, Pandas, SciPy |
-| Scientific Computing | MATLAB, Numerical Optimization, Simulation |
+| Web & backend | Django, Next.js, React, Tailwind CSS, REST APIs |
+| Desktop | .NET, WPF, Entity Framework Core |
+| Databases | PostgreSQL, Supabase, SQLite, MySQL, MongoDB, Neo4j |
+| Research & data | OpenCV, NumPy, Pandas, SciPy, MATLAB, numerical optimization |
 | Tools | Git, GitHub, Docker, Vercel |
 
-## Selected Projects
+## Current focus
 
-### Boat Service Booking & Management System
-Full-stack commercial application featuring atomic booking operations, database security, scheduling and payment management.
-
-**Stack:** Next.js, Supabase, PostgreSQL, Vercel
-
-### BoatManager
-Desktop management software integrating pricing algorithms, payment workflows, database management and automated PDF generation.
-
-**Stack:** C#, .NET, WPF, EF Core, SQLite
-
-### Caffè Riccardo – Digital Restaurant Menu
-Responsive, database-driven digital menu developed for an Italian hospitality business.
-
-**Stack:** Next.js, React, TypeScript, Supabase
-
-### Adaptive Canine Prosthesis – Bachelor's Thesis
-Vision-informed dynamic simulation and variable-impedance control using numerical optimization.
-
-Reduced the simulated weighted objective by 54.4% for walking and 52.3% for trotting compared with a fixed-device baseline.
-
-## Research Interests
-
-- Computer Vision
-- Automation and Control Systems
-- Robotics
-- Numerical Simulation
-- Intelligent Software Systems
-
-## Current Focus
-
-- MSc in Computer Engineering at PoliTO
-- Software Engineering and Automation
-- Building reliable and practical software solutions
-
-## Languages
-
-- Persian — Native
-- English — C1 (self-assessed)
-- Italian — A2 (currently improving)
+Software engineering, computer vision, automation and intelligent systems. Interested in junior roles and internships in Turin or remotely.
